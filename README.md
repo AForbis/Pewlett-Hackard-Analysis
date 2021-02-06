@@ -1,4 +1,4 @@
-__Pewlett-Hackard-Analysis_
+__Pewlett-Hackard-Analysis__
 
 __Overview of the analysis__
   
