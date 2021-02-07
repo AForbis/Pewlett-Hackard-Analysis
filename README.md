@@ -16,7 +16,7 @@
   
   3) Under the current parameters of the mentorship program, only 1,549 are eligible to participate. 
   
-  4) Assistant Engineers and Technique Leaders have the fewest number of individuals eligible to become mentors.
+  4) Managers, Assistant Engineers, and Technique Leaders have the fewest number of individuals eligible to become mentors.
   
       ![](Screenshots/mentor_eligible.png)
 
