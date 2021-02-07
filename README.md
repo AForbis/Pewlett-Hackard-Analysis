@@ -12,13 +12,13 @@
   
   2) 63.8% of retirement age employees are Senior Engineers or Senior Staff. 
   
-  ![](Screenshots/ret_Titles.png)
+      ![](Screenshots/ret_Titles.png)
   
   3) Under the current parameters of the mentorship program, only 1,549 are eligible to participate. 
   
   4) Assistant Engineers and Technique Leaders have the fewest number of individuals eligible to become mentors.
   
-  ![](Screenshots/mentor_eligible.png)
+      ![](Screenshots/mentor_eligible.png)
 
 ## Summary
 
