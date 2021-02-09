@@ -38,7 +38,7 @@
     
 ## Data Sources
 
-  - [Employee_DataBase_challenge.sql](Queries/Employee_DataBase_challenge.sql)
+  - [Employee_Database_challenge.sql](Queries/Employee_Database_challenge.sql)
   - [retiring_titles](Data/retiring_titles.csv)
   - [mentorship_eligibility](Data/mentorship_eligibility.csv)
   
